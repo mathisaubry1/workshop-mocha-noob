@@ -1,4 +1,4 @@
-function getPrices()
+exports.getPrices = function ()
 {
     var shop = {
         banana: 1,
@@ -10,4 +10,3 @@ function getPrices()
     }
     return (shop);
 }
-console.log(getPrices());
