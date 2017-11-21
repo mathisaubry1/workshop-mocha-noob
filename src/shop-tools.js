@@ -9,4 +9,4 @@ exports.getPrices = function ()
         apple: 6
     }
     return (shop);
-}
+};
